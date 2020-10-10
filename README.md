@@ -1,6 +1,6 @@
 
 
-<h1 align="center">{React Native News}</h1>
+<h1 align="center">React Native News</h1>
 
 
 
@@ -15,7 +15,7 @@
 
 ## Overview
 
-![screenshot](https://github.com/efemevlut/React-Native-News/blob/main/overview.gif?raw=true)
+![screenshot](src/img/overview.gif)
 
 
 ### Built With
